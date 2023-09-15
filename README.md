@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Vargas-V/Vargas-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Victoria Vargas</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">A passionate aspiring Junior Cloud/DevOps Practitioner. I am gaining experience with cloud services such as AWS through MDC's Enterprise Cloud Computing program. Aim to acquire Solutions Architect and CompTIA Network+ certifications in the following months. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
