@@ -1,4 +1,4 @@
-
+[![MasterHead](https://i.pinimg.com/originals/55/54/94/5554944068cea50de980a6b27effc7c9.gif)](https://vargas-v.io)
 
 <!--
 **Vargas-V/Vargas-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Victoria Vargas</h1>
 <h3 align="center">A passionate aspiring Junior Cloud/DevOps Practitioner. I am gaining experience with cloud services such as AWS through MDC's Enterprise Cloud Computing program. Aim to acquire Solutions Architect and CompTIA Network+ certifications in the following months.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 - 🌱 I’m currently learning **Cloud Computing, DevOps, and AWS**
 
